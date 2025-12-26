@@ -57,7 +57,7 @@ EduAdmin/
 
 ## 运行项目
 ```bash
-git clone https://gitee.com/zrk007/EduAdmin.git
+git clone https://github.com/devwaf/EduAdmin.git
 cd EduAdmin
 
 # 还原 .NET 依赖
